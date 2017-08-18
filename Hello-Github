@@ -1,0 +1,8 @@
+#iostream
+using namepace std;
+
+int main()
+{
+cout<<"Hello Github";
+
+}
